@@ -1,0 +1,2 @@
+The only assumption I made was that all pass-code digits were unique. Then it took a while to sort them with pencil and paper.
+I had no idea, it was possible to code.

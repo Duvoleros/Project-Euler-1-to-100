@@ -1,0 +1,2 @@
+As we need lcm(1..20), we need to take prime numbers in a range powered to floor(log_prime(20)) power.
+To paraphrase, lcm(1..20) = lcm(1..10) * 11 * 13 * 17 * 19 * 2 = 232792560 - doesn't take coding, just manual multiplication.

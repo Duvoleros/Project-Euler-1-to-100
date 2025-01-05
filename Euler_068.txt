@@ -1,0 +1,3 @@
+Ok, 16-digit string means number 10 is placed in external node, as well as 9, 8, 7, 6.
+6 would be the number to begin with, as it is the lowest. Then we need a piece of paper to adjust 5 inner numbers (it is logical, that the lowest number 1 would be in the same groups with the highest -  10 and 9, which leaves us just 2 options to check).
+(6 5 3) (10 3 1) (9 1 4) (8 4 2) (7 2 5) is the magic 5-gon ring, we were asked to find.
